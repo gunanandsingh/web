@@ -132,7 +132,7 @@ nav {
     display: flex;
     justify-content: center;
     gap: 10px;
-    background: #c2b45a;
+    background: rgb(216, 216, 112);
     padding: 15px;
 }
 
